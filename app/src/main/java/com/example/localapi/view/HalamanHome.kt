@@ -36,7 +36,6 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.localapi.R
 import com.example.localapi.modeldata.DataSiswa
-import com.example.localapi.ui.controller.route.DestinasiHome
 import com.example.localapi.view.route.DestinasiHome
 import com.example.localapi.viewmodel.HomeViewModel
 import com.example.localapi.viewmodel.PenyediaViewModel
